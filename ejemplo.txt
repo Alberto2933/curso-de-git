@@ -2,6 +2,5 @@ acabo de modificar desde la rama rama
 
 
 
-modifico en main
 
-modifico en rama 
+modifico ejemplo txt
