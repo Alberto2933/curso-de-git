@@ -1,2 +1,1 @@
-Esto es una prueba de que Rodrigo es MMg
-confirmamos que rodrigo lo es
+acabo de modificar desde la rama rama 
